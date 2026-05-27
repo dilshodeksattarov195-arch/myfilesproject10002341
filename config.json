@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderderify",
+        "uuid": 18540720,
+        "checksum": "v7i0w6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
